@@ -1,3 +1,3 @@
 ## Description
 
-Combine Repo for the projects that I have created while learning React
+Combine Repo for the projects created while learning React
